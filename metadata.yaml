@@ -1,0 +1,31 @@
+_repo: Colour-Measurement-and-Mixture_38984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abney, William de Wiveleslie, Sir
+    aliases:
+    - Abney, Captain
+    - Abney, W. de W. (William de Wiveleslie), Sir
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '41716'
+    url: http://www.gutenberg.org/2009/agents/41716
+    wikipedia: http://en.wikipedia.org/wiki/William_de_Wiveleslie_Abney
+description: ''
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38984'
+  lccn: '06016073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Color'
+title: Colour Measurement and Mixture
+url: http://www.gutenberg.org/ebooks/38984
